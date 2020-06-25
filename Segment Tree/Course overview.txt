@@ -1,1 +1,12 @@
 
+1. Introduction to segment tree.
+2. Implementation.
+3. Problem 1 : RMQSQ ( SPOJ )
+4. Problem 2 : GSS1 ( SPOJ )
+5. Point update.
+6. Problem 3 : Help Ashu ( HackerEarth )
+7. Problem 4 : GSS3  ( SPOJ )
+8. Problem with range update.
+9. Solution of range update ( Lazy Propagation )
+10. Problem 5 : HORRIBLE (SPOJ )
+11. Problem 6 : GEGSQRSS ( SPOJ ) 
