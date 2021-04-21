@@ -1,2 +1,5 @@
 1. Count number of distinct integers in a given range of an array ( offline ).
    source :  https://github.com/MehrajShakil/Data-structure/blob/master/MO's%20Algorithm/DQUERY%20-%20D-query.cpp
+2. Maximum occurance of a number in a given range of an array ( offline ).
+   source : https://github.com/MehrajShakil/Data-structure/blob/master/MO's%20Algorithm/D.%20Cut%20and%20Stick.cpp
+
