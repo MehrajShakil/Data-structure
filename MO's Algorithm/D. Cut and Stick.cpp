@@ -132,7 +132,8 @@ void Solution ( int tc ){
      /// dbg ( query[i].L , query[i].R , query[i].ind , sum );
      int res;
      int len = query[i].R - query[i].L + 1;
-     if ( (len+1)/2 >= sum ) res = 1;
+      
+     if ( (len+1)/2 >= sum ) res = 1; /// here sum is the maximum occurrence of the given range.
      else {
         int rem = len - sum;
         rem+=(rem+1);
