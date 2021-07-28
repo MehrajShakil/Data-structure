@@ -1,2 +1,3 @@
 ## Offline Implementation
-1. Find min and max of the range query ( segment tree ) : https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/2e09ccd17e30054cbbe83029f097d822ef5e913e/LightOJ/Segment%20Tree/Ghajini.cpp
+1. Find min and max of the range ( segment tree ) : https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/2e09ccd17e30054cbbe83029f097d822ef5e913e/LightOJ/Segment%20Tree/Ghajini.cpp
+2. Interval sum | short code ( Binary Indexed Tree ) : https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/LightOJ/Binary%20Indexed%20Tree/1112%20-%20Curious%20Robin%20Hood.cpp
