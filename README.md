@@ -5,4 +5,4 @@
 
 ## Online Implementation
 1. Range sum | Point update | short code | Binary Indexed Tree : https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/LightOJ/Binary%20Indexed%20Tree/1112%20-%20Curious%20Robin%20Hood.cpp
-2. Range sum | Range update | Segment Tree : https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/LightOJ/Segment%20Tree/Horrible%20queries.cpp
+2. Range sum | Range update | Segment Tree : https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/LightOJ/Segment%20Tree/Horrible%20Queries.cpp
