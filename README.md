@@ -1,5 +1,5 @@
 ### Offline Implementation
-1. Find min and max of the range | LightOJ | Segment Tree: https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/2e09ccd17e30054cbbe83029f097d822ef5e913e/LightOJ/Segment%20Tree/Ghajini.cpp
+####1. Find min and max of the range | LightOJ | Segment Tree: https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/2e09ccd17e30054cbbe83029f097d822ef5e913e/LightOJ/Segment%20Tree/Ghajini.cpp
 2. Number of elements greater than x or less than x | Short code | Ordered set | CodeForces : https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Codeforces/E.%20Enemy%20is%20weak.cpp
 3. Range GCD || CodeForces || Sparse Table || Faster than Segment Tree: https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Regular%20contest%20solution%20from%2001-08-2021/CodeForces/Codeforces%20Round%20%23736%20(Div.%202)/D.%20Integers%20Have%20Friends.cpp
 4. Range Query in string | Each query ( substring ) Is Balanced Regular Expression or Not ?  | Segment Tree: https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Toph/Segment%20tree/wait.cpp
