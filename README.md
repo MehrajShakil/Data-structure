@@ -16,6 +16,7 @@
 >> 1. **Range sum | Point update | short code | LightOJ:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/LightOJ/Binary%20Indexed%20Tree/1112%20-%20Curious%20Robin%20Hood.cpp
 
 > ### ***Segment Tree***:
->> 2. **Range sum | Range update | LightOJ:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/LightOJ/Segment%20Tree/Horrible%20Queries.cpp
->> 3. **Range queries | Bitwise 'or' and 'xor' operation | Point update | CodeForces:** https://github.com/MehrajShakil/Data-structure/blob/master/Segment%20Tree/D.%20Xenia%20and%20Bit%20Operations.cpp 
->> 4. **Range queries | XOR | Range update | 2D | CodeForces:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Codeforces/E.%20XOR%20on%20Segment.cpp
+>> 1. **Range sum | Range update | LightOJ:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/LightOJ/Segment%20Tree/Horrible%20Queries.cpp
+>> 2. **Range queries | Bitwise 'or' and 'xor' operation | Point update | CodeForces:** https://github.com/MehrajShakil/Data-structure/blob/master/Segment%20Tree/D.%20Xenia%20and%20Bit%20Operations.cpp 
+>> 3. **Range queries | XOR | Range update | 2D | CodeForces:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Codeforces/E.%20XOR%20on%20Segment.cpp
+>> 4. **Range Queries | second max element | Point Update | SPOJ:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/SPOJ/segment%20tree/KGSS%20-%20Maximum%20Sum.cpp
