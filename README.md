@@ -8,6 +8,9 @@
 > ### ***C++ STL: Policy base data structures***:
 >> 1. **Number of elements greater than x or less than x | Short code | CodeForces :** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Codeforces/E.%20Enemy%20is%20weak.cpp
 
+> ### ***Binary Indexed Tree***:
+>> 1. **increasing subsuquence of a fixed lenght | unique elements | small length | CodeForces :** https://github.com/MehrajShakil/problem-solve-from-Morass-blog/blob/master/BIT/C.%20Subsequences.cpp
+
 > ### ***Sparse Table***:
 >> 1. **Range GCD || CodeForces:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Regular%20contest%20solution%20from%2001-08-2021/CodeForces/Codeforces%20Round%20%23736%20(Div.%202)/D.%20Integers%20Have%20Friends.cpp
 
