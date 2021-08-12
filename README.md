@@ -13,6 +13,7 @@
 
 > ### ***Sparse Table***:
 >> 1. **Range GCD || CodeForces:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Regular%20contest%20solution%20from%2001-08-2021/CodeForces/Codeforces%20Round%20%23736%20(Div.%202)/D.%20Integers%20Have%20Friends.cpp
+>> 2. **Range GCD | all pair gcd summation | SPOJ:** https://github.com/MehrajShakil/problem-solve-from-Morass-blog/blob/master/Segment%20Tree/ADAGF%20-%20Ada%20and%20Greenflies%20(%20sprase%20table%20solution%20).cpp
 
 # **Online Implementation**
 > ### ***Binary Indexed Tree***:
