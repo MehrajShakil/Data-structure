@@ -27,3 +27,4 @@
 >> 4. **Range Queries | second max element | Point Update | SPOJ:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/SPOJ/segment%20tree/KGSS%20-%20Maximum%20Sum.cpp
 >> 5. **Range Query in string | Each query ( substring ) Is Balanced Regular Expression or Not ? | Point update | SPOJ:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/SPOJ/segment%20tree/BRCKTS%20-%20Brackets.cpp
 >> 6. **Range GCD | point Update | CodeForces:** https://github.com/MehrajShakil/problem-solve-from-Morass-blog/blob/master/Segment%20Tree/D.%20Bash%20and%20a%20Tough%20Math%20Puzzle.cpp
+>> 7. **Range query count number of primes | range update | SPOJ:** https://github.com/MehrajShakil/problem-solve-from-Morass-blog/blob/master/Segment%20Tree/CNTPRIME%20-%20Counting%20Primes.cpp
