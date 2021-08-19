@@ -18,6 +18,11 @@
 >> 2. **Range GCD | all pair gcd summation | SPOJ:** https://github.com/MehrajShakil/problem-solve-from-Morass-blog/blob/master/Segment%20Tree/ADAGF%20-%20Ada%20and%20Greenflies%20(%20sprase%20table%20solution%20).cpp
 >> 3. **Range max | with constant time query | SPOJ:** https://github.com/MehrajShakil/problem-solve-from-Morass-blog/blob/master/Sparse%20Table/THRBL%20-%20Catapult%20that%20ball.cpp
 
+> ### ***DSU***:
+>> 1. **DSU implementation || simple || CodeForces:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Codeforces/DSU/D1.%20Mocha%20and%20Diana%20(Easy%20Version).cpp
+
+
+
 # **Online Implementation**
 > ### ***Binary Indexed Tree***:
 >> 1. **Range sum | Point update | short code | LightOJ:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/LightOJ/Binary%20Indexed%20Tree/1112%20-%20Curious%20Robin%20Hood.cpp
