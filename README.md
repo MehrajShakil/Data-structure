@@ -20,6 +20,7 @@
 
 > ### ***DSU***:
 >> 1. **DSU implementation || simple || CodeForces:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Codeforces/DSU/D1.%20Mocha%20and%20Diana%20(Easy%20Version).cpp
+>> 2. **DSU implementation || simple || CSES:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/CSES/Graph%20Algorithms/Road%20Construction.cpp
 
 > ### ***MO's Algorithm***:
 > >> 1. **Range query || number of distinct elements into the range || Toph:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Toph/MO's%20Algorithm/Crayons.cpp
