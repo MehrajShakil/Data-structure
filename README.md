@@ -25,6 +25,9 @@
 > ### ***MO's Algorithm***:
 > >> 1. **Range query || number of distinct elements into the range || Toph:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Toph/MO's%20Algorithm/Crayons.cpp
 
+> ### ***Trie***:
+> >> 1. **Maximum xor sum of Subarray ** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/CSES/Additional%20Problems/Maximum%20Xor%20Subarray.cpp
+
 
 # **Online Implementation**
 > ### ***Binary Indexed Tree***:
