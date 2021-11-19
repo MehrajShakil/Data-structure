@@ -23,10 +23,10 @@
 >> 2. **DSU implementation || simple || CSES:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/CSES/Graph%20Algorithms/Road%20Construction.cpp
 
 > ### ***MO's Algorithm***:
-> >> 1. **Range query || number of distinct elements into the range || Toph:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Toph/MO's%20Algorithm/Crayons.cpp
+>> 1. **Range query || number of distinct elements into the range || Toph:** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/Toph/MO's%20Algorithm/Crayons.cpp
 
 > ### ***Trie***:
-> >> 1. **Maximum xor sum of Subarray ** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/CSES/Additional%20Problems/Maximum%20Xor%20Subarray.cpp
+>> 1. **Maximum xor sum of Subarray :** https://github.com/MehrajShakil/Solving-problem-in-different-OJ/blob/master/CSES/Additional%20Problems/Maximum%20Xor%20Subarray.cpp
 
 
 # **Online Implementation**
